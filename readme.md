@@ -33,7 +33,7 @@ NodeApi/
 ├── package.json 
 ├── package-lock.json 
 ├── productos_tecnologicos.json # Archivo con datos de ejemplo (ubicado en la raíz) 
-└── readme.md # Este archivo
+└── readme.md 
 ```
 
 
